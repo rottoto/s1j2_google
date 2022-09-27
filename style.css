@@ -1,72 +1,48 @@
-a
-{
-    margin-left: 10px;
-}
+a {margin-left: 10px;}
 
-.header
-{
+.header {
     display :flex;
     justify-content: flex-end;
 }
 
-.logo
-{
+.logo {
     font-size: 6em;
     margin-top: 12%;
     text-align: center;
 }
 
-blue
-{
-    color: blue;
-}
+.blue {color: blue;}
+.red {color: red;}
+.yellow {color: yellow;}
+.green {color: green;}
 
-red
-{
-    color: red;
-}
-
-yellow
-{
-    color: yellow;
-}
-
-green
-{
-    color: green;
-}
-
-.searchbar
-{
+.searchbar {
     margin-top: -2em;
     font-size: 1.8em;
     text-align: center;
 }
 
-.searchbar glass
-{
+.searchbar glass {
     padding: 15px;
     margin-right: 20em;
 }
 
-.searchbar microphone
-{
+.searchbar microphone {
     color: blue;
     padding: 15px;
 }
 
-.searchbar span
-{
+.searchbar span {
     border: 1px black solid;
     border-radius: 20px;
 }
 
-.footer
-{
+.footer {
     background-color: lightgray;
     margin-top: 32em;
     display: flex;
     justify-content: space-between;
 }
 
+i {font-style: normal}
 
